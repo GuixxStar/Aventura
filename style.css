@@ -11,4 +11,6 @@ body {
 
 button {
     background-color: #cadb2a;
+    color: black;
+    font-family: "Oldenburg", serif;
 }
