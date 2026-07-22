@@ -14,3 +14,11 @@ button {
     color: black;
     font-family: "Oldenburg", serif;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block
+}
